@@ -83,6 +83,12 @@ python gradio-UI.py
 
 The app will launch locally at: [http://localhost:7860] 
 
+## 🖼️ Demo UI  
+
+Here’s how the Gradio dashboard looks when running locally:  
+
+![Semantic Book Recommender UI](images/Book_Recommender_UI.png)
+
 ### Example Query  
 - Query: *“A story about forgiveness”*  
 - Category: *Fiction*  
